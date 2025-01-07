@@ -3,7 +3,7 @@
 This project implements an efficient system for storing and retrieving 2D spatial data using a KD-tree. The KD-tree is a data structure designed to organize points in a multi-dimensional space, allowing for fast querying and retrieval operations. This implementation also supports the storage of duplicate data, ensuring flexibility in handling various types of datasets.
 
 ## Key Features
-* Efficient Data Representation
+* #### Efficient Data Representation
 The project uses a KD-tree to store 2D spatial data (e.g., geographic coordinates or map points). The structure is designed for quick retrieval of data, making it ideal for handling large datasets.
 
 * Duplicate Data Support
